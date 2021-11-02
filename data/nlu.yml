@@ -16,6 +16,13 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - hallo
+    - guten morgen
+    - Servus
+    - Grüß dich
+    - Moin
+    - Grüß Gott
+    - Guten Tag
 
 - intent: goodbye
   examples: |
@@ -30,6 +37,9 @@ nlu:
     - see you around
     - bye bye
     - see you later
+    - tschüss
+    - ciao
+    - wir sehen uns
 
 - intent: affirm
   examples: |
@@ -39,6 +49,10 @@ nlu:
     - of course
     - that sounds good
     - correct
+    - ja
+    - richtig
+    - korrekt
+    - klingt gut
 
 - intent: deny
   examples: |
@@ -66,6 +80,13 @@ nlu:
     - so so perfect
     - so good
     - so perfect
+    - ich fühle mich gut
+    - großartig
+    - toll
+    - wunderbar
+    - gut
+    - fantastisch
+    - super
 
 - intent: mood_unhappy
   examples: |
@@ -83,6 +104,11 @@ nlu:
     - extremly sad
     - so saad
     - so sad
+    - schlecht
+    - traurig
+    - nicht so gut
+    - ich hatte einen schlimmen tag
+    - scheiße
 
 - intent: bot_challenge
   examples: |
@@ -90,3 +116,5 @@ nlu:
     - are you a human?
     - am I talking to a bot?
     - am I talking to a human?
+    - bist du ein Mensch?
+    - bist du ein Bot?
