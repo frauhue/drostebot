@@ -11,6 +11,7 @@ stories:
   - user: |
       amazing
     intent: mood_great
+  - action: action_hello_world
   - action: utter_happy
 
 - story: happy path 2
