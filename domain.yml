@@ -8,6 +8,9 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - was_kann_man_hier_machen
+  - anti
+  - drostewissen
 
 responses:
   utter_greet:
@@ -24,10 +27,13 @@ responses:
   - text: "Super, weiter so!"
 
   utter_goodbye:
-  - text: "Auf wiedersehen!"
+  - text: "Auf Wiedersehen!"
 
   utter_iamabot:
-  - text: "Ich bin ein Bot auf Basis von Rasa. Ich wurde trainiert von Christian und Aaron. Bitte sei den beiden nicht böse, wenn ich noch nicht so schlau bin, wir Maschinen sind nicht so gut im Lernen."
+  - text: "Ich bin ein Bot auf Basis von Rasa. Ich werde trainiert von Hue und Aaron. Bitte sei den beiden nicht böse, wenn ich noch nicht so viel weiß, wir Maschinen sind nicht so gut im Lernen."
+
+  utter_was_kann_man_hier_machen:
+  - text: "Ich kann dich gerne herumführen. Möchtest "
 
 
 

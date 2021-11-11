@@ -118,3 +118,31 @@ nlu:
     - am I talking to a human?
     - bist du ein Mensch?
     - bist du ein Bot?
+
+- intent: was_kann_man_hier_machen
+  examples: |
+    - was ist hier los?
+    - was kann man hier machen?
+    - was passiert hier?
+    - was passiert auf dieser seite?
+    - was kann ich auf dieser seite machen?
+    - was kann ich mir hier anschauen?
+    - was kann ich hier tun?
+    - was kann ich hier angucken?
+    - was gibt es zu tun hier?
+    - wofür bist du da?
+
+- intent: anti
+  examples: |
+    - ich interessiere mich nicht für literatur
+
+- intent: drostewissen
+  examples: |
+    - wer ist denn eigentlich diese annette von droste?
+    - wer ist annette von droste-hülshoff?
+    - wer ist droste
+    - was heißt droste
+    - ist droste mit christian drosten verwandt?
+    
+    
+
